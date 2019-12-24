@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "9201908b54578aa33f1d1826a5a680aca8991843",
+          "version": "2.8.0"
+        }
+      },
+      {
+        "package": "swift-nio-redis",
+        "repositoryURL": "https://github.com/SwiftNIOExtras/swift-nio-redis.git",
+        "state": {
+          "branch": null,
+          "revision": "f8aba0db72eed4e6e44bb8c246088c91ce08623b",
+          "version": "0.10.2"
+        }
+      },
+      {
+        "package": "swift-nio-redis-client",
+        "repositoryURL": "https://github.com/NozeIO/swift-nio-redis-client.git",
+        "state": {
+          "branch": null,
+          "revision": "2e340bdfea407d49e505f6b5bfda324247c2aa98",
+          "version": "0.10.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
